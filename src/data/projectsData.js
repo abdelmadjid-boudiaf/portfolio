@@ -1,11 +1,10 @@
-
 export const projectsData = [
   {
     id: 1,
     name: "Quiz App",
     description:
       "I build this quiz app using react js react-router and redux-toolkit, it's a practice project",
-    projectUrl: "https://react-quiz-app-abdou.netlify.app",
+    projectUrl: "https://quiz-app-react-abdou.netlify.app/",
     imgUrl:
       "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_336x210/https://d33wubrfki0l68.cloudfront.net/652ac2b01393ec4bd06b2ccd/screenshot_2023-10-14-16-32-59-0000.png",
   },
