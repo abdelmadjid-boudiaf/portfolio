@@ -12,7 +12,7 @@ export const projectsData = [
     id: 2,
     name: "Todo List",
     description:
-      "I have created this simple todo list app with react js, it's simple but good practice for using state and passing it between components",
+      "I created a simple to-do list app using React.js. While the app is straightforward, it served as excellent practice for managing state within React components and passing it between them.",
     projectUrl: "https://todo-app-aoom.netlify.app/",
     imgUrl:
       "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_336x210/https://d33wubrfki0l68.cloudfront.net/6519a980b4410572a61b36ca/screenshot_2023-10-01-17-16-49-0000.png",
@@ -21,9 +21,18 @@ export const projectsData = [
     id: 3,
     name: "Youtube clone",
     description:
-      "I have created a Youtube clone app with react js, using youtube v3 api form console cloud google for api and use deferent libraries of react like react router to handle routing page and mui for components styles  ",
-    projectUrl: "react-youtube-clone-abdou.netlify.app",
+      "I developed a YouTube clone app using React.js, leveraging the YouTube v3 API from the Google Cloud Console. The app incorporates essential React libraries, such as React Router for efficient page routing and Material-UI (MUI) for stylish and responsive components.",
+    projectUrl: "https://react-youtube-clone-abdou.netlify.app/",
     imgUrl:
       "https://screenshot-proxy.netlify.app/f_jpg,fit_cover,s_336x210/https://d33wubrfki0l68.cloudfront.net/655884d443f25942dc55edd9/screenshot_2023-11-18-09-33-12-0000.png",
+  },
+  {
+    id: 4,
+    name: "Todo App Ts",
+    description:
+      "I developed a simple Todo App using React.ts while learning TypeScript",
+    projectUrl: "https://todo-app-abdou-react-ts.netlify.app/",
+    imgUrl:
+      "https://screenshot-proxy.netlify.app/f_jpg,fit_cover,s_336x210/https://d33wubrfki0l68.cloudfront.net/655cef314ba024009397f00a/screenshot_2023-11-21-17-56-03-0000.png",
   },
 ];
